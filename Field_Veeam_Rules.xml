@@ -28,7 +28,7 @@
   <rule id="100028" level="4">
     <decoded_as>Veeam MP</decoded_as>
     <description>$(Description) by User $(User)</description>
-    <field name="Object">Veeam Backup & Replication console</field>
+    <field name="Object">Veeam Backup</field>
     <field name="State">closed|launched</field>
   </rule>
 
